@@ -15,7 +15,7 @@ public:
 	void setGuardName(string newName); //allows naming of guard
 	string getGuardName(); //returns the name of the guard
 
-
+	 
 	//decontructs to free up memory
 	~Guard();
 
